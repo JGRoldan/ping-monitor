@@ -1,0 +1,36 @@
+
+--- Nueva sesión: 2026-04-27 04:50:16.676220 ---
+[2026-04-27 04:50:16.834] 
+[2026-04-27 04:50:16.834] Haciendo ping a 8.8.8.8 con 32 bytes de datos:
+[2026-04-27 04:50:16.834] Respuesta desde 8.8.8.8: bytes=32 tiempo=6ms TTL=119
+[2026-04-27 04:50:17.844] Respuesta desde 8.8.8.8: bytes=32 tiempo=7ms TTL=119
+[2026-04-27 04:50:18.927] Respuesta desde 8.8.8.8: bytes=32 tiempo=8ms TTL=119
+[2026-04-27 04:50:19.866] Respuesta desde 8.8.8.8: bytes=32 tiempo=8ms TTL=119
+[2026-04-27 04:50:20.881] Respuesta desde 8.8.8.8: bytes=32 tiempo=8ms TTL=119
+[2026-04-27 04:50:21.882] Respuesta desde 8.8.8.8: bytes=32 tiempo=7ms TTL=119
+[2026-04-27 04:50:22.900] Respuesta desde 8.8.8.8: bytes=32 tiempo=8ms TTL=119
+[2026-04-27 04:50:23.928] Respuesta desde 8.8.8.8: bytes=32 tiempo=8ms TTL=119
+[2026-04-27 04:50:24.939] Respuesta desde 8.8.8.8: bytes=32 tiempo=7ms TTL=119
+[2026-04-27 04:50:25.951] Respuesta desde 8.8.8.8: bytes=32 tiempo=6ms TTL=119
+[2026-04-27 04:50:27.002] Respuesta desde 8.8.8.8: bytes=32 tiempo=13ms TTL=119
+[2026-04-27 04:50:28.000] Respuesta desde 8.8.8.8: bytes=32 tiempo=6ms TTL=119
+[2026-04-27 04:50:29.013] Respuesta desde 8.8.8.8: bytes=32 tiempo=8ms TTL=119
+[2026-04-27 04:50:30.044] Respuesta desde 8.8.8.8: bytes=32 tiempo=16ms TTL=119
+[2026-04-27 04:50:31.032] Respuesta desde 8.8.8.8: bytes=32 tiempo=8ms TTL=119
+[2026-04-27 04:50:32.040] Respuesta desde 8.8.8.8: bytes=32 tiempo=7ms TTL=119
+[2026-04-27 04:50:33.085] Respuesta desde 8.8.8.8: bytes=32 tiempo=8ms TTL=119
+[2026-04-27 04:50:34.090] Respuesta desde 8.8.8.8: bytes=32 tiempo=7ms TTL=119
+[2026-04-27 04:50:35.098] Respuesta desde 8.8.8.8: bytes=32 tiempo=7ms TTL=119
+[2026-04-27 04:50:36.101] Respuesta desde 8.8.8.8: bytes=32 tiempo=8ms TTL=119
+[2026-04-27 04:50:37.118] Respuesta desde 8.8.8.8: bytes=32 tiempo=8ms TTL=119
+[2026-04-27 04:50:38.129] Respuesta desde 8.8.8.8: bytes=32 tiempo=7ms TTL=119
+[2026-04-27 04:50:39.129] Respuesta desde 8.8.8.8: bytes=32 tiempo=7ms TTL=119
+[2026-04-27 04:50:40.134] Respuesta desde 8.8.8.8: bytes=32 tiempo=7ms TTL=119
+[2026-04-27 04:50:41.134] Respuesta desde 8.8.8.8: bytes=32 tiempo=9ms TTL=119
+[2026-04-27 04:50:41.412] 
+[2026-04-27 04:50:41.415] Estadísticas de ping para 8.8.8.8:
+[2026-04-27 04:50:41.416] Paquetes: enviados = 25, recibidos = 25, perdidos = 0
+[2026-04-27 04:50:41.418] (0% perdidos),
+[2026-04-27 04:50:41.420] Tiempos aproximados de ida y vuelta en milisegundos:
+[2026-04-27 04:50:41.422] Mínimo = 6ms, Máximo = 16ms, Media = 7ms
+[2026-04-27 04:50:41.422] Control-C
