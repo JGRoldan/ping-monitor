@@ -67,7 +67,8 @@ def ping_worker(target, active_targets, client_folder=None):
             if not line:
                 if proc.poll() is not None:
                     break
-                time.sleep(0.1)
+                # Espera más tiempo para reducir consumo de CPU
+                time.sleep(0.5)
                 continue
             now_dt = datetime.now()
             now = now_dt.strftime("%Y-%m-%d %H:%M:%S.%f")[:-3]
